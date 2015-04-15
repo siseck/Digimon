@@ -3,7 +3,7 @@
     width:380px;
     height:270px;
     border-radius: 5px;
-    //background-color: #009944;
+    //background-color: purple;
     background: -webkit-gradient(linear, left top, left bottom, from(#4d8), color-stop(0.01, #1a5), color-stop(0.5, #1a5), color-stop(0.99, #094), to(#083));
     box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.4) ;
 }
@@ -14,7 +14,7 @@
     left:20px;
     width:210px;
     height:210px;
-    border:solid 10px #ffcb03;
+    border:solid 10px orange;
     box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.8) inset;
     float:left;
 }
@@ -23,7 +23,7 @@
     position:relative;
     top:5px;
     left:5px;
-    background-color: green;
+    background-color: pink;
     background-image: url("background.png");
     width:200px;
     height:200px;
